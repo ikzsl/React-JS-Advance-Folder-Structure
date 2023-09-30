@@ -286,7 +286,7 @@ module.exports = {
 };
 ```
 
-### jscongig.json
+### jsconfig.json
 
 - File Purpose
 - Configuration Setup:
